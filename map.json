@@ -21,7 +21,7 @@
   },
   "9": {
     "langs": ["cn", "en", "es", "hant", "id", "pt", "vi"],
-    "md_id": ""
+    "md_id": "a522650a-d29d-4bab-ad02-ebf782097eae"
   },
   "10": {
     "langs": ["ar", "cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
@@ -33,19 +33,19 @@
   },
   "12": {
     "langs": ["cn", "en", "es", "hant", "id", "pt", "vi"],
-    "md_id": ""
+    "md_id": "a2a03f50-43e7-42c1-b2e9-95c1691ba825"
   },
   "13": {
     "langs": ["cn", "en", "hant", "id"],
-    "md_id": ""
+    "md_id": "9ac207c3-223e-4050-bf2e-02b9800b28cd"
   },
   "16": {
     "langs": ["cn", "en", "hant", "id"],
-    "md_id": ""
+    "md_id": "22bea7d9-7c2c-4da7-8773-bf30076dbc61"
   },
   "17": {
     "langs": ["cn", "en", "hant", "id"],
-    "md_id": ""
+    "md_id": "8bfbf6be-b796-4eec-a6e3-35e8ef8d3943"
   },
   "21": {
     "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
@@ -57,19 +57,19 @@
   },
   "23": {
     "langs": ["cn", "en", "hant", "id", "th", "vi"],
-    "md_id": ""
+    "md_id": "6514e61f-3712-4ebf-8046-056ddc584c69"
   },
   "24": {
     "langs": ["cn", "en", "es", "fr", "hant", "id", "ja", "pt", "th", "vi"],
-    "md_id": ""
+    "md_id": "f13ecc9f-c26a-4773-8e12-ea8504b3aedb"
   },
   "25": {
     "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
-    "md_id": ""
+    "md_id": "73f7a94b-d063-45cf-b97d-482fddfd9ead"
   },
   "28": {
     "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
-    "md_id": ""
+    "md_id": "840726c8-d592-4fcf-8be0-12456629b35b"
   },
   "32": {
     "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
@@ -81,35 +81,35 @@
   },
   "35": {
     "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
-    "md_id": ""
+    "md_id": "42044083-8b30-4f1f-adff-a498ca9023a6"
   },
   "36": {
     "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
-    "md_id": ""
+    "md_id": "1a822f68-4ea8-4f1e-a996-581b3a5ee7b8"
   },
   "37": {
     "langs": ["cn", "en", "hant", "id"],
-    "md_id": ""
+    "md_id": "b30d4747-1775-479d-ac85-04c7e9385d83"
   },
   "38": {
     "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
-    "md_id": ""
+    "md_id": "1d1f76eb-2295-4fc6-8dcb-0a4f152d753c"
   },
   "40": {
     "langs": ["cn", "en", "hant", "id", "vi"],
-    "md_id": ""
+    "md_id": "92f7c5e6-74f2-4216-ad81-0106f5c54268"
   },
   "43": {
     "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
-    "md_id": ""
+    "md_id": "1af2a5f8-a2b5-4f57-8511-56f62d9cc868"
   },
   "44": {
     "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
-    "md_id": ""
+    "md_id": "9b8c69e3-6a7a-4f41-a2d6-6ff99df15c88"
   },
   "45": {
     "langs": ["cn", "en", "es", "hant", "id", "pt", "vi"],
-    "md_id": ""
+    "md_id": "81d910e3-316b-4959-aa39-d49ab764662f"
   },
   "46": {
     "langs": ["cn", "en", "hant"],
@@ -320,7 +320,7 @@
     "md_id": ""
   },
   "714": {
-    "langs": ["cn", "hant", "id"],
+    "langs": ["cn", "en", "hant", "id"],
     "md_id": ""
   },
   "715": {
@@ -401,7 +401,7 @@
   },
   "785": {
     "langs": ["ar", "cn", "en", "es", "fr", "hant", "id", "ja", "pt", "th", "vi"],
-    "md_id": ""
+    "md_id": "4fe7f528-6443-46a9-995d-8e5eddc48ca8"
   },
   "786": {
     "langs": ["cn", "en", "es", "hant", "id", "pt", "vi"],
@@ -452,7 +452,7 @@
     "md_id": ""
   },
   "798": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "799": {
@@ -476,7 +476,7 @@
     "md_id": ""
   },
   "804": {
-    "langs": ["ar", "cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["ar", "cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "806": {
@@ -501,15 +501,15 @@
   },
   "811": {
     "langs": ["cn", "en", "es", "hant", "id", "pt", "vi"],
-    "md_id": ""
+    "md_id": "9a9819a0-4eea-4ffc-8388-590ba37181cc"
   },
   "812": {
     "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
-    "md_id": ""
+    "md_id": "3c89c8f4-ea5a-494d-b5b3-3f7b78057221"
   },
   "813": {
     "langs": ["cn", "hant", "id"],
-    "md_id": ""
+    "md_id": "3f854395-3783-482b-b11d-d6d7798705a1"
   },
   "1557": {
     "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "vi"],
@@ -525,7 +525,7 @@
   },
   "1561": {
     "langs": ["cn", "en", "es", "hant", "id", "pt", "vi"],
-    "md_id": ""
+    "md_id": "ca811dca-582d-4a81-8ed6-36625fa654e2"
   },
   "1562": {
     "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "vi"],
@@ -656,7 +656,7 @@
     "md_id": ""
   },
   "1676": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "vi"],
+    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "1677": {
@@ -1056,7 +1056,7 @@
     "md_id": ""
   },
   "1814": {
-    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
+    "langs": ["ar", "cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "1815": {
@@ -1472,7 +1472,7 @@
     "md_id": ""
   },
   "1932": {
-    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
+    "langs": ["ar", "cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "1933": {
@@ -1976,7 +1976,7 @@
     "md_id": ""
   },
   "2061": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "2062": {
@@ -2624,11 +2624,11 @@
     "md_id": "8a2b323b-acb2-4304-88ff-6dd8b3b1a680"
   },
   "2477": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": "8428dda0-55cd-4d0e-81aa-8ef1183dc714"
   },
   "2478": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": "25e687ba-0efa-4892-9ee6-02676317ef18"
   },
   "2479": {
@@ -2640,11 +2640,11 @@
     "md_id": "530037dc-f404-46ec-a58c-e30760652896"
   },
   "2884": {
-    "langs": ["cn", "en", "hant", "id", "pt"],
+    "langs": ["cn", "en", "hant", "id", "pt", "vi"],
     "md_id": ""
   },
   "2891": {
-    "langs": ["cn", "en", "es", "hant", "id", "vi"],
+    "langs": ["ar", "cn", "en", "es", "hant", "id", "vi"],
     "md_id": ""
   },
   "2912": {
@@ -2772,7 +2772,7 @@
     "md_id": "8aef6685-ba56-46e8-a9aa-8ff500e3d0e3"
   },
   "4691": {
-    "langs": ["cn", "en", "hant", "id"],
+    "langs": ["ar", "cn", "en", "hant", "id"],
     "md_id": ""
   },
   "4807": {
@@ -2936,7 +2936,7 @@
     "md_id": ""
   },
   "10611": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "10612": {
@@ -2952,7 +2952,7 @@
     "md_id": ""
   },
   "10615": {
-    "langs": ["cn", "en", "hant", "id", "th", "vi"],
+    "langs": ["cn", "en", "fr", "hant", "id", "th", "vi"],
     "md_id": ""
   },
   "10616": {
@@ -3632,7 +3632,7 @@
     "md_id": ""
   },
   "38428": {
-    "langs": ["cn", "en", "fr", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "38429": {
@@ -3644,7 +3644,7 @@
     "md_id": ""
   },
   "38471": {
-    "langs": ["cn", "en", "hant", "id", "vi"],
+    "langs": ["cn", "en", "hant", "id", "th", "vi"],
     "md_id": ""
   },
   "40407": {
@@ -3844,7 +3844,7 @@
     "md_id": ""
   },
   "186286": {
-    "langs": ["cn", "hant", "id", "th", "vi"],
+    "langs": ["cn", "en", "hant", "id", "th", "vi"],
     "md_id": ""
   },
   "201820": {
@@ -3920,11 +3920,11 @@
     "md_id": ""
   },
   "318419": {
-    "langs": ["cn", "en", "hant", "id", "vi"],
+    "langs": ["cn", "en", "es", "hant", "id", "vi"],
     "md_id": ""
   },
   "318747": {
-    "langs": ["cn", "en", "hant", "id", "th", "vi"],
+    "langs": ["cn", "en", "es", "hant", "id", "th", "vi"],
     "md_id": ""
   },
   "324350": {
@@ -3960,7 +3960,7 @@
     "md_id": ""
   },
   "349027": {
-    "langs": ["cn", "en", "hant", "id", "th", "vi"],
+    "langs": ["cn", "en", "es", "hant", "id", "th", "vi"],
     "md_id": ""
   },
   "349041": {
@@ -3996,11 +3996,11 @@
     "md_id": ""
   },
   "363449": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "363451": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "363452": {
@@ -4012,7 +4012,7 @@
     "md_id": ""
   },
   "363455": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "vi"],
     "md_id": ""
   },
   "363456": {
@@ -4056,7 +4056,7 @@
     "md_id": ""
   },
   "376816": {
-    "langs": ["cn", "en", "hant", "id"],
+    "langs": ["cn", "en", "hant", "id", "th"],
     "md_id": ""
   },
   "376826": {
@@ -4180,7 +4180,7 @@
     "md_id": ""
   },
   "497459": {
-    "langs": ["cn", "en", "hant", "id", "vi"],
+    "langs": ["cn", "en", "fr", "hant", "id", "vi"],
     "md_id": ""
   },
   "497460": {
@@ -4384,7 +4384,7 @@
     "md_id": ""
   },
   "583195": {
-    "langs": ["cn", "en", "hant", "id", "vi"],
+    "langs": ["cn", "en", "es", "hant", "id", "vi"],
     "md_id": ""
   },
   "590961": {
@@ -4412,7 +4412,7 @@
     "md_id": ""
   },
   "605395": {
-    "langs": ["cn", "en", "hant", "vi"],
+    "langs": ["cn", "en", "hant", "th", "vi"],
     "md_id": ""
   },
   "605862": {
@@ -4440,15 +4440,15 @@
     "md_id": ""
   },
   "664939": {
-    "langs": ["cn", "hant", "id", "vi"],
+    "langs": ["cn", "en", "hant", "id", "vi"],
     "md_id": ""
   },
   "664940": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "664942": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "664943": {
@@ -4460,7 +4460,7 @@
     "md_id": ""
   },
   "664945": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "664956": {
@@ -4509,7 +4509,7 @@
   },
   "664969": {
     "langs": ["cn", "en", "hant", "id", "vi"],
-    "md_id": ""
+    "md_id": "c9c2be43-03e6-4aab-b8e1-8e1b060845aa"
   },
   "664971": {
     "langs": ["cn", "en", "hant", "id"],
@@ -4528,7 +4528,7 @@
     "md_id": ""
   },
   "676963": {
-    "langs": ["cn", "hant", "vi"],
+    "langs": ["cn", "en", "hant", "vi"],
     "md_id": ""
   },
   "678885": {
@@ -4604,7 +4604,7 @@
     "md_id": ""
   },
   "712618": {
-    "langs": ["cn", "en", "es", "hant", "id", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "vi"],
     "md_id": ""
   },
   "714151": {
@@ -4700,7 +4700,7 @@
     "md_id": ""
   },
   "757982": {
-    "langs": ["cn", "hant", "id", "th", "vi"],
+    "langs": ["cn", "en", "hant", "id", "th", "vi"],
     "md_id": ""
   },
   "758024": {
@@ -4728,7 +4728,7 @@
     "md_id": ""
   },
   "775372": {
-    "langs": ["cn", "en", "es", "hant", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "pt", "th", "vi"],
     "md_id": ""
   },
   "775401": {
@@ -4736,7 +4736,7 @@
     "md_id": ""
   },
   "775402": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "784650": {
@@ -4744,7 +4744,7 @@
     "md_id": ""
   },
   "794541": {
-    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
+    "langs": ["ar", "cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "829323": {
@@ -4892,7 +4892,7 @@
     "md_id": ""
   },
   "871338": {
-    "langs": ["cn", "hant", "id", "th", "vi"],
+    "langs": ["cn", "es", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "883117": {
@@ -4964,8 +4964,8 @@
     "md_id": ""
   },
   "898771": {
-    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
-    "md_id": ""
+    "langs": ["ar", "cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
+    "md_id": "9c27cee1-68cf-4cb6-902f-de969871ebad"
   },
   "898772": {
     "langs": ["cn", "en", "es", "hant", "id", "pt", "vi"],
@@ -5089,7 +5089,7 @@
   },
   "981954": {
     "langs": ["cn", "en", "hant", "th", "vi"],
-    "md_id": ""
+    "md_id": "302979ef-a3fd-45ff-81b8-7a7a67d62f1c"
   },
   "1005140": {
     "langs": ["ar", "cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
@@ -5437,7 +5437,7 @@
   },
   "1477993": {
     "langs": ["cn", "en", "es", "hant", "id", "pt"],
-    "md_id": ""
+    "md_id": "a8fa054e-8c34-4895-bf1f-93cb2f5c93de"
   },
   "1478034": {
     "langs": ["cn", "en", "es", "hant", "id", "pt"],
@@ -6801,11 +6801,11 @@
   },
   "2754289": {
     "langs": ["cn", "en", "hant", "id", "th", "vi"],
-    "md_id": ""
+    "md_id": "ee7fdf8f-2f1c-493d-a67f-1ff054cc2433"
   },
   "2754292": {
     "langs": ["cn", "en", "hant", "id", "th", "vi"],
-    "md_id": ""
+    "md_id": "5757774c-b398-4169-ad0d-e98fa111570f"
   },
   "2754293": {
     "langs": ["cn", "hant", "id", "vi"],
@@ -7264,7 +7264,7 @@
     "md_id": ""
   },
   "2858198": {
-    "langs": ["cn", "hant"],
+    "langs": ["cn", "en", "hant"],
     "md_id": ""
   },
   "2858199": {
